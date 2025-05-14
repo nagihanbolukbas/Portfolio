@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portföy - Nagihan Bölükbaş</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f7fa;
+      color: #333;
+      line-height: 1.6;
+      padding: 0 20px;
+    }
+
+    header {
+      background-color: #333; /* Koyu gri renk */
+      color: white;
+      text-align: center;
+      padding: 40px 0;
+      border-radius: 8px;
+      margin-bottom: 30px;
+      position: relative;
+    }
+
+    header::before, header::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      width: 20px;
+      height: 20px;
+      background-color: #666;
+      border-radius: 50%;
+      transform: translateY(-50%);
+    }
+
+    header::before {
+      left: 10px;
+    }
+
+    header::after {
+      right: 10px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+    }
+
+    section {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 40px 0;
+    }
+
+    h2 {
+      font-size: 1.8rem;
+      color: #66a6ff;
+      margin-bottom: 10px;
+    }
+
+    .personal-info, .education, .work-experience, .skills, .languages {
+      background-color: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    ul {
+      list-style-type: none;
+    }
+
+    ul li {
+      margin-bottom: 12px;
+      font-size: 1rem;
+    }
+
+    ul li a {
+      color: #66a6ff;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    ul li a:hover {
+      color: #4a90e2;
+    }
+
+    .skills ul li, .languages ul li {
+      font-size: 1rem;
+      margin-bottom: 10px;
+    }
+
+    .skills ul li span, .languages ul li span {
+      font-weight: bold;
+    }
+
+    .skills ul, .languages ul {
+      padding-left: 20px;
+    }
+
+    .section-heading {
+      text-transform: uppercase;
+      font-size: 1.2rem;
+      margin-bottom: 15px;
+      font-weight: 600;
+      color: #333;
+    }
+
+    @media (max-width: 768px) {
+      section {
+        padding: 20px;
+      }
+
+      header h1 {
+        font-size: 2rem;
+      }
+
+      h2 {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Nagihan Bölükbaş</h1>
+  </header>
+
+  <section>
+    <div class="personal-info">
+      <h2 class="section-heading">Kişisel Bilgiler</h2>
+      <ul>
+        <li><strong>Ad Soyad:</strong> Nagihan Bölükbaş</li>
+        <li><strong>Doğum Yeri ve Tarihi:</strong> İstanbul / 30.03.2005</li>
+        <li><strong>Adres:</strong> Yenidoğan Mahallesi, Süleymaniye Sokak, Daire 21/4 Bayrampaşa / İstanbul</li>
+        <li><strong>Telefon:</strong> 0 (505) 038 47 42</li>
+        <li><strong>E-posta:</strong> <a href="mailto:nagihanbolukbas6@gmail.com">nagihanbolukbas6@gmail.com</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/nagihanbolukbas" target="_blank">github.com/nagihanbolukbas</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/nagihan-bölükbaş" target="_blank">linkedin.com/in/nagihan-bölükbaş</a></li>
+      </ul>
+    </div>
+
+    <div class="education">
+      <h2 class="section-heading">Eğitim</h2>
+      <ul>
+        <li><strong>İstanbul Gelişim Üniversitesi:</strong> Web Tasarımı ve Kodlama</li>
+        <li><strong>Bayrampaşa Mesleki ve Teknik Anadolu Lisesi:</strong> Web Tasarımı ve Kodlama</li>
+        <li><strong>Yahya Kemal Ortaokulu</strong></li>
+        <li><strong>Ahmet Haşim İlkokulu</strong></li>
+      </ul>
+    </div>
+
+    <div class="work-experience">
+      <h2 class="section-heading">İş Tecrübesi</h2>
+      <ul>
+        <li><strong>EPİAŞ (Enerji Piyasaları İşletme A.Ş.)</strong> - Lise Stajyer Öğrenci (9 Ay)</li>
+      </ul>
+    </div>
+
+    <div class="skills">
+      <h2 class="section-heading">Bilgisayar Becerileri</h2>
+      <ul>
+        <li><span>Ofis Uygulamaları:</span> Microsoft Word, Excel, PowerPoint, Access</li>
+        <li><span>Tasarım ve Geliştirme:</span> Adobe Dreamweaver CS6, Adobe Photoshop CS6, Adobe Flash Professional CS6, Visual Studio</li>
+        <li><span>Web Teknolojileri:</span> HTML, CSS, JavaScript</li>
+      </ul>
+    </div>
+
+    <div class="languages">
+      <h2 class="section-heading">Yabancı Dil</h2>
+      <ul>
+        <li><span>İngilizce:</span> A2 (Temel Seviye)</li>
+      </ul>
+    </div>
+  </section>
+
+</body>
+</html>
