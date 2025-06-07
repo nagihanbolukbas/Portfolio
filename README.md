@@ -45,4 +45,7 @@ Hi! I'm **Nagihan Bölükbaş**, a junior web developer passionate about buildin
 - Email: nagihanbolukbas6@gmail.com
 
 > 📌 I’m open to collaboration and always looking to improve through real projects and teamwork. Feel free to connect with me!
+<<<<<<< HEAD
 
+=======
+>>>>>>> 20e71ca (İlk Yükleme)
