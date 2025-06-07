@@ -80,42 +80,6 @@
       from { opacity: 0; transform: translateY(-5px); }
       to { opacity: 1; transform: translateY(0); }
     }
-    form {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-    input, textarea {
-      padding: 10px;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      font-size: 1rem;
-    }
-    button.send-btn {
-      background-color: var(--color-primary);
-      color: white;
-      border: none;
-      padding: 10px;
-      font-size: 1rem;
-      border-radius: 8px;
-      cursor: pointer;
-    }
-    button.send-btn:hover {
-      background-color: #b82e6f;
-    }
-    .cv-button {
-      display: inline-block;
-      background-color: var(--color-primary);
-      color: white;
-      padding: 10px 20px;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: bold;
-      margin-top: 10px;
-    }
-    .cv-button:hover {
-      background-color: #b82e6f;
-    }
     @media (max-width: 768px) {
       header h1 { font-size: 2rem; }
       .section h2 { font-size: 1.3rem; }
@@ -181,25 +145,6 @@
         <ul>
           <li>İngilizce: A2 (Temel Seviye)</li>
         </ul>
-      </div>
-    </div>
-
-    <div class="section">
-      <h2 onclick="toggleSection(this)">📩 İletişim</h2>
-      <div class="content">
-        <form onsubmit="alert('Form gönderildi!'); return false;">
-          <input type="text" placeholder="Adınız Soyadınız" required>
-          <input type="email" placeholder="E-posta adresiniz" required>
-          <textarea rows="4" placeholder="Mesajınız..." required></textarea>
-          <button class="send-btn">Gönder</button>
-        </form>
-      </div>
-    </div>
-
-    <div class="section">
-      <h2 onclick="toggleSection(this)">📄 CV</h2>
-      <div class="content">
-        <a class="cv-button" href="../Portfolyo/cv-nagihan.pdf" download>CV'yi İndir (PDF)</a>
       </div>
     </div>
   </section>
