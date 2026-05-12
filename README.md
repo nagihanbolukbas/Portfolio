@@ -6,7 +6,7 @@ Merhaba! Ben **Nagihan Bölükbaş**, Web Tasarımı ve Kodlama alanında kendin
 
 - 🎓 **Eğitim**: İstanbul Gelişim Üniversitesi - Web Tasarımı ve Kodlama  
 - 💼 **Staj**: EPİAŞ (Enerji Piyasaları İşletme A.Ş.) – 9 ay  
-- 🌐 **Teknolojiler**: HTML, CSS, JavaScript,Python
+- 🌐 **Teknolojiler**: HTML, CSS, JavaScript,Python,PHP,SQL,C#(Unity)
 - 🛠️ **Araçlar**: Adobe Dreamweaver, Photoshop, Visual Studio 
 - 📍 **Konum**: Bayrampaşa / İstanbul  
 - 🌱 Sürekli öğrenmeye ve yeni teknolojilerle çalışmaya istekliyim.
@@ -32,12 +32,12 @@ Hi! I'm **Nagihan Bölükbaş**, a junior web developer passionate about buildin
   - Internship at EPİAŞ (Energy Exchange Istanbul) — 9 months
 
 - 💻 **Tech Stack**  
-  - **Languages:** HTML, CSS, JavaScript  
+  - **Languages:** HTML, CSS, JavaScript,PHP,SQL,C#(Unity) 
   - **Tools:** Adobe Dreamweaver CS6, Photoshop CS6, Visual Studio
 
 - 🌍 **Languages**  
   - Turkish: Native  
-  - English: A2 (Basic)
+  - English: A1 (Basic)
 
 ## 🔗 Contact
 
