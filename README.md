@@ -13,7 +13,7 @@ Merhaba! Ben **Nagihan Bölükbaş**, Web Tasarımı ve Kodlama alanında kendin
 
 ## 📫 İletişim
 
-- LinkedIn: [linkedin.com/in/nagihan-bölükbaş](https://linkedin.com/in/nagihan-bölükbaş)  
+- LinkedIn: [linkedin.com/in/nagihan-bolukbas](https://linkedin.com/in/nagihan-bolukbas)  
 - E-posta: nagihanbolukbas6@gmail.com
 
 > 💬 Her türlü proje, iş birliği veya fikir alışverişi için iletişime geçebilirsin!
