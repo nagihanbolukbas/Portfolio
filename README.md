@@ -41,7 +41,7 @@ Hi! I'm **Nagihan Bölükbaş**, a junior web developer passionate about buildin
 
 ## 🔗 Contact
 
-- LinkedIn: [nagihan-bölükbaş](https://linkedin.com/in/nagihan-bölükbaş)  
+- LinkedIn: [nagihan-bölükbaş-562184267](https://linkedin.com/in/nagihan-bölükbaş-562184267)  
 - Email: nagihanbolukbas6@gmail.com
 
 > 📌 I’m open to collaboration and always looking to improve through real projects and teamwork. Feel free to connect with me!
